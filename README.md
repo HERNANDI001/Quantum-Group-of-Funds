@@ -16,7 +16,7 @@ Este projeto consiste em uma análise exploratória histórica dos valores de cr
 3. **Importação para o Banco de Dados:** Os dados processados foram transferidos para um banco de dados Mysql.
 4. **Conexão com Ferramenta de Visualização:** Foi estabelecida a conexão entre o banco de dados e a ferramenta escolhida para visualização.
 5. **Seleção de Criptomoedas:** Escolhemos 10 criptomoedas do conjunto disponibilizado para uma análise mais aprofundada.
-6. **Geração de Gráficos:** Criamos cinco gráficos representativos dos resultados obtidos durante a análise.
+6. **Geração de Gráficos:** Criamos seis gráficos representativos dos resultados obtidos durante a análise.
 7. **Storytelling:** A apresentação final foca em contar uma história coerente com os dados, destacando insights e conclusões relevantes.
 
 ## Como Reproduzir a Análise
